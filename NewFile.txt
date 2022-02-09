@@ -1,6 +1,7 @@
 New file created in Remote. Contet.
-change from local.
+change 444 from local.
 c3
 c4
 c5
+c6
 
